@@ -1,15 +1,21 @@
-field,display_name,browse_link,external_link
+fleld,display_name,browse_link,external_link
+identifier,Accession Number,,
+location,Shelf Location
 title,Title,
-creator,Creator,
+creator, Creator,true
 date,Date Created,
-description,Description,
+description_Description,
+contents,Scope and Contents
+extent,Extent
 subject,Subjects,true
-location,Location
-latitude,Latitude
-longitude,Longitude
-source,Source
-identifier,Source Identifier,,
+level,Level of Description,
+series,Series, true,
+subseries Sub-Series, true,
 type,Type,
-format,Format,
+format, Format,
+language,Language of Materials
+ItemhIstory, Record History
+access,Access Restrictions
 rights,Rights,
-rightsstatement,Rights Statement,,true
+rightsstatement, Rights Statement,, true
+rightsstatement ights Staterent, true
